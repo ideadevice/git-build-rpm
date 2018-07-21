@@ -11,7 +11,6 @@ BuildRequires:  perl >= 1:v5.10.1
 BuildRequires:  perl(Module::Build) >= 0.35
 BuildRequires:  perl(Test::Pod) >= 1.20
 Requires:       git
-Requires:       git-archive-all
 Requires:       rpm-build
 Requires:       perl(Getopt::Long)
 Requires:       perl(List::Util)
